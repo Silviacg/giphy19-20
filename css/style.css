@@ -1,3 +1,25 @@
 h1 {
-  color: fuchsia;
+  color: rgb(255, 0, 119);
+}
+
+html{
+background-color: pink;
+}
+
+h2
+{
+  color:darkred;
+}
+
+h3{
+  color:darkred;
+}
+
+.container{
+  display: flex;
+  justify-content:
+  space-between;
+}
+body{
+font-family: 'Oswald', sans-serif;
 }
